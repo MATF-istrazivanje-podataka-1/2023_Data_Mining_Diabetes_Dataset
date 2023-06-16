@@ -1,8 +1,8 @@
 Teme obradjene na ovom projektu su:
 -
-Algoritmi klasifikacije (stabla odlučivanja, slučajne šume, klasifikator pojačavanjem gradijenta)
-Algoritmi klasterovanja (k sredina, sakupljajuce klasterovanje)
-Pravila pridruživanja u SPSS-u (apriori algoritam)
+Algoritmi klasifikacije (stabla odlučivanja, slučajne šume, klasifikator pojačavanjem gradijenta)                             
+Algoritmi klasterovanja (k sredina, sakupljajuce klasterovanje)                                             
+Pravila pridruživanja u SPSS-u (apriori algoritam)                             
 
 Korišćena baza podataka:
 -
