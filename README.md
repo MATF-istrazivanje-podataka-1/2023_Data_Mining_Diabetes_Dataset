@@ -1,4 +1,4 @@
-Projekat iz Istraživanja podataka 1, Jun 2023
+#Projekat iz Istraživanja podataka 1, Jun 2023
 -                                                                        
 *Teme obradjene na ovom projektu su:*
 -
